@@ -63,7 +63,9 @@ Sorted data by **Revenue (DESC)** to highlight the **top-performing products and
 The cleaned and aggregated dataset was imported into **Tableau Desktop** to create an interactive dashboard titled:  
 ### 🖥️ *“Profitability by Product and Region”*
 
-![Tableau_Dasboard](Profitability by Product and Sales Channel Screenshot.jpg)
+![Profitability Dashboard](Profitability%20by%20Product%20and%20Sales%20Channel%20Screenshot.jpg)
+
+
 ---
 
 ## 🧾 Dashboard Elements
