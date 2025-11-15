@@ -19,7 +19,8 @@ It demonstrates advanced **SQL data modeling** and **interactive Tableau dashboa
 > and where is the business losing margin?
 
 ---
-
+## Tools Used :
+> T-SQL and Tablueau
 ## 🧮 SQL Data Preparation Summary  
 
 All data was extracted and transformed in **SQL Server** from the AdventureWorksDW2022 database.  
